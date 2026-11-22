@@ -56,7 +56,7 @@ Please follow the original dataset licences and terms.
 ```bibtex
 @article{askari2026encoding,
   author  = {Askari, Sahar and Golnari, Amin},
-  title   = {Encoding Is Not Exposure: Demographic Encoding, Diagnostic Fairness and Membership-Inference Risk in Chest {X-ray} Foundation Models},
+  title   = {{Demographic Encoding is Not Exposure: Fairness and Privacy in Chest X-ray Foundation Models}},
   year    = {2026},
   note    = {arXiv preprint}
 }
