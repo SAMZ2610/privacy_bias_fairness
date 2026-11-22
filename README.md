@@ -55,13 +55,11 @@ Please follow the original dataset licences and terms.
 
 ```bibtex
 @article{askari2026encoding,
-  author  = {Askari, Sahar},
+  author  = {Askari, Sahar and Golnari, Amin},
   title   = {Encoding Is Not Exposure: Demographic Encoding, Diagnostic Fairness and Membership-Inference Risk in Chest {X-ray} Foundation Models},
   year    = {2026},
-  note    = {[journal / preprint link to be added]}
+  note    = {arXiv preprint}
 }
 ```
 
 ## License
-
-[Add a license, e.g. MIT]
