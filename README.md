@@ -1,6 +1,6 @@
 # Encoding Is Not Exposure
 
-Code for the paper **"Encoding Is Not Exposure: Demographic Encoding, Diagnostic Fairness and Membership-Inference Risk in Chest X-ray Foundation Models"** (Sahar Askari, Shiraz University).
+Code for the paper **"Demographic Encoding is Not Exposure: Fairness and Privacy in Chest X-ray Foundation Models"** (Sahar Askari, Shiraz University).
 
 We measure three things on the same models and test whether they are aligned:
 
@@ -58,7 +58,8 @@ Please follow the original dataset licences and terms.
   author  = {Askari, Sahar and Golnari, Amin},
   title   = {{Demographic Encoding is Not Exposure: Fairness and Privacy in Chest X-ray Foundation Models}},
   year    = {2026},
-  note    = {arXiv preprint}
+  journal = {{arXiv preprint arXiv:2611.31014}},
+  doi     = {https://doi.org/10.48550/arXiv.2611.31014},
 }
 ```
 
