@@ -64,5 +64,3 @@ Please follow the original dataset licences and terms.
 ```
 
 ## License
-
-[Add a license, e.g. MIT]
